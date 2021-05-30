@@ -5,7 +5,6 @@
 #include<stdio.h>
 void main()
 {
-
 /*int length=3, breadth=8;
 int area= length* breadth;
 printf("The area of this rectangle is %d",area);*/
@@ -17,5 +16,7 @@ scanf("%d", &length);
 printf("What is the breadth of the recatangle\n");
 scanf("%d",&breadth);
 
+//area=length*breadth;
+  
 printf("The area of this rectangle is %d", length*breadth);
 }
