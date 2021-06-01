@@ -5,7 +5,7 @@ void main()
 {
     char character;
     printf("Enter the character in small letters:");
-    scanf("%c",&character);
+    scanf("%c",&character);     // ' ' is compulsory
     if(character=='a' || character =='e' )   //OR operator
     {
         printf("TRUE\n");
