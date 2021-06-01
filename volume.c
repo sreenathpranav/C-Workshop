@@ -10,3 +10,4 @@ printf("The area of this circle is %f\n", pi*radius*radius);
 int height=5;
 printf("The voloume of this cylinder is %f\n", pi*radius*radius*height);
 }
+//Try to use user input values instead of hard coded code
