@@ -1,5 +1,4 @@
 //Qn.8 Program to read an alphabet and check whether the given alphabet is 'a' or 'e'
-
 #include<stdio.h>
 void main()
 {
